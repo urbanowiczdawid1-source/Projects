@@ -1,2 +1,2 @@
 Autor projektu: Dawid Urbanowicz, Filip Wiliński
-wersja v0.1
+wersja v0.2
